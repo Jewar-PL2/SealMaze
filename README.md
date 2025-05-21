@@ -10,7 +10,7 @@ Remake prostej gry zrobionej w ramach projektu na lekcję, lecz tym razem w Lua.
 
 ## Jak uruchomić?
 
-Gotowa aplikacja na system Windows oraz plik .love (wymaga zainstalowanego [LÖVE](https://love2d.org/)) znajdują się [tutaj](https://github.com/Jewar-PL2/SealMaze/releases).
+Gotowa aplikacja na systemy Windows i MacOS oraz plik .love (wymaga zainstalowanego [LÖVE](https://love2d.org/)) znajdują się [tutaj](https://github.com/Jewar-PL2/SealMaze/releases).
 
 Plik SealMaze.love można uruchomić poleceniem
 ```bash
